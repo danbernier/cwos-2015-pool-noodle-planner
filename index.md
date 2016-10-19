@@ -3,6 +3,8 @@ layout: default
 title: Pool Noodle Planner
 ---
 
+[Want to see how it turned out?](http://designischoice.com/projects/pool-noodle-animals/)
+
 ![](imgs/diagram.svg)
 
 | [D2](imgs/d2.jpg)                             |
